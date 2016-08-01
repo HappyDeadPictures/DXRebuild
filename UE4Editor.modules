@@ -1,9 +1,0 @@
-{
-	"Changelist" : 2927265,
-	"BuildId" : "",
-	"Modules" : 
-	{
-		"DialogueSystem" : "UE4Editor-DialogueSystem.dylib",
-		"DialogueSystemEditor" : "UE4Editor-DialogueSystemEditor.dylib"
-	}
-}
